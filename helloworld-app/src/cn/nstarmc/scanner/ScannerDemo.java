@@ -8,5 +8,7 @@ public class ScannerDemo {
         System.out.println("input:");
         String rs = sc.next();
         System.out.println(rs);
+
+
     }
 }
